@@ -1,0 +1,35 @@
+h1{
+    text-align: center;
+    background-color: antiquewhite;
+}
+.recipes{
+    display: inline-block;
+    margin: 10px;
+}
+
+.recipes img{
+width: 150px;
+height: 200px;
+}
+
+.recipes a{
+    text-decoration: none;
+    display: block;
+    padding: 10px 15px;
+    background-color: antiquewhite;
+    color: #000;
+    text-decoration: none;
+    text-align: center;
+}
+
+.recipes a:hover{
+    background-color: #000;
+    color: antiquewhite;
+}
+
+ul{
+    list-style: none;
+    text-align: center;
+    display: block;
+    margin: auto;
+}
